@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": [{"text": "T","color": "yellow","bold": true},{"text": "E","color": "#FF00FF","bold": true},{"text": "T","color": "aqua","bold": true},{"text": "R","color": "light_purple","bold": true},{"text": "A","color": "dark_blue","bold": true},{"text": "B","color": "red","bold": true},{"text": "L","color": "green","bold": true},{"text": "O","color": "dark_purple","bold": true},{"text": "C","color": "gold","bold": true},{"text": "K","color": "dark_green","bold": true}]
+            
+        ,
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:oak_sapling"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/tetrabackground2.png"
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
