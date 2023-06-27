@@ -1,0 +1,60 @@
+AUtoři
+
+Mody:
+highscore (1-8hráčů)
+battle (2+)
+
+
+Nastavení
+randomizace (total random, po sedmi)
+levl
+
+you cant see controls at night – fixed
+you can craft carrot on a stick – fixed
+player7 kills you – hopefully fixed
+wasd movement pls - yes
+possible to move settings mid game – fixed
+possible to start a new game mid game – fixed
+stops giving new block if you save first piece – hopefully fixed
+while in game you can die – fixed
+in battle kick players that leave - done
+after battle it displays numbers that dont make sense - fixed
+sometimes doesnt teleport 
+you can dupe controls
+
+show scores mid-game - done
+highscore end after only one standing - done
+freeze per piece – done
+highscore lvl - fixed
+joining spectator mid game bad - fixed
+score doesnt render properly - fixed
+
+//flickering scoreboard
+//flickering speed
+//when dead, spectator will add you to spectator indefinetly
+//in gamemode book, highsocore is too bright
+//when game in proggres and you join late, pressing start will eliminate you
+//dying in the baatle book bad word
+//bad signs
+//lobby scoreboard doesnt disaperar in battle
+//rename move lines item
+//game currently in progress shown to everyone
+//gives items even if game is in proggres and you try to start
+//invisible armorstands
+//rename voice to music in rp
+//advancements display, leave out
+//spectators still join game
+//add multiplayer warnings on ARR and DAS
+//no shift period
+//update the warning about playing in 1.16 to 1.17
+//hard drop
+//player 8 is out of bounds
+//when you die an go into spectator it keeps cinká to
+//it shows even empty spaces on the result card
+
+make souds and music options individual
+scroll controls
+way to go back into lobby after you die
+send command feedback false
+freeplay
+
