@@ -7,7 +7,7 @@
             "text": ""
         },
         "icon": {
-            "item": "minecraft:diamond_ore"
+            "id": "minecraft:diamond_ore"
         },
         "frame": "task",
         "show_toast": true,

@@ -7,8 +7,10 @@
             "text": ""
         },
         "icon": {
-            "item": "minecraft:bricks",
-            "nbt": "{CustomModelData:314}"
+            "id": "minecraft:bricks",
+            "components": {
+                "minecraft:custom_model_data": 314
+            }
         },
         "frame": "task",
         "show_toast": true,

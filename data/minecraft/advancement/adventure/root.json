@@ -1,6 +1,6 @@
 {"display":
     {"icon":
-        {"item":"minecraft:barrier"},
+        {"id":"minecraft:barrier"},
         "title":{"translate":"advancements.adventure.root.title"},
     "description":{"translate":"advancements.adventure.root.description"},
     "frame":"task","show_toast":false,

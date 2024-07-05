@@ -48,7 +48,7 @@ execute if score $mode sign matches 2..3 at @s[tag=!loser] run function tetrablo
 execute if score $sounds sign matches 1 if score @s lines matches 1 as @s[tag=!loser] at @s run playsound block.note_block.bell ambient @s ~ ~ ~ 1 0.75
 execute if score $sounds sign matches 1 if score @s lines matches 2 as @s[tag=!loser] at @s run playsound block.note_block.bell ambient @s ~ ~ ~ 1 1
 execute if score $sounds sign matches 1 if score @s lines matches 3 as @s[tag=!loser] at @s run playsound block.note_block.bell ambient @s ~ ~ ~ 1 1.25
-execute if score $sounds sign matches 1 if score @s lines matches 4 as @s[tag=!loser] at @s run playsound entity.player.levelup ambient @s ~ ~ ~ 
+execute if score $sounds sign matches 1 if score @s lines matches 4 as @s[tag=!loser] at @s run playsound entity.player.levelup ambient @s ~ ~ ~ 1
 
 scoreboard players reset @s lines
 scoreboard players reset @s score

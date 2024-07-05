@@ -7,8 +7,8 @@ summon minecraft:armor_stand 64 100.8 -65 {Tags:["leaderboard4","lead"],Invisibl
 summon minecraft:armor_stand 64 100.5 -65 {Tags:["leaderboard5","lead"],Invisible:1,CustomNameVisible:1,Marker:1,Team:"l_5"}
 summon minecraft:armor_stand 64 100.2 -65 {Tags:["leaderboard6","lead"],Invisible:1,CustomNameVisible:1,Marker:1,CustomName:'[{"text":"(right-click)","color":"gray"}]'}
 
-data modify entity @e[tag=leaderboard1,limit=1] CustomName set from block 58 98 -66 Text1
-data modify entity @e[tag=leaderboard2,limit=1] CustomName set from block 58 98 -66 Text2
-data modify entity @e[tag=leaderboard3,limit=1] CustomName set from block 58 98 -66 Text3
-data modify entity @e[tag=leaderboard4,limit=1] CustomName set from block 58 98 -66 Text4
-data modify entity @e[tag=leaderboard5,limit=1] CustomName set from block 58 97 -66 Text1
+data modify entity @e[tag=leaderboard1,limit=1] CustomName set from block 58 98 -66 front_text.messages[0]
+data modify entity @e[tag=leaderboard2,limit=1] CustomName set from block 58 98 -66 front_text.messages[1]
+data modify entity @e[tag=leaderboard3,limit=1] CustomName set from block 58 98 -66 front_text.messages[2]
+data modify entity @e[tag=leaderboard4,limit=1] CustomName set from block 58 98 -66 front_text.messages[3]
+data modify entity @e[tag=leaderboard5,limit=1] CustomName set from block 58 97 -66 front_text.messages[0]

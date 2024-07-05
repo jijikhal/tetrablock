@@ -7,7 +7,7 @@
             "text": ""
         },
         "icon": {
-            "item": "minecraft:iron_ore"
+            "id": "minecraft:iron_ore"
         },
         "frame": "task",
         "show_toast": true,

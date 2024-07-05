@@ -7,7 +7,7 @@
             "text": "You did that on purpose right?"
         },
         "icon": {
-            "item": "minecraft:dirt"
+            "id": "minecraft:dirt"
         },
         "frame": "task",
         "show_toast": true,

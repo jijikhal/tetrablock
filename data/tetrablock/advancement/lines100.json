@@ -7,7 +7,7 @@
             "text": ""
         },
         "icon": {
-            "item": "minecraft:gold_block"
+            "id": "minecraft:gold_block"
         },
         "frame": "task",
         "show_toast": true,

@@ -7,7 +7,7 @@
             "text": ""
         },
         "icon": {
-            "item": "minecraft:diamond"
+            "id": "minecraft:diamond"
         },
         "frame": "task",
         "show_toast": true,
