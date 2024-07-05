@@ -8,10 +8,6 @@ function tetrablock:load
 
 team join player @a[team=!spectator]
 
-
-
-
-
 tag @a remove player1
 tag @a remove player2
 tag @a remove player3
